@@ -20,6 +20,7 @@ brew install zsh-completions
 brew install tmux
 brew install emacs
 brew install php55
+brew install composer
 brew install ruby
 brew install mysql
 brew install mecab
