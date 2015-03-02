@@ -49,5 +49,6 @@ brew cask install google-japanese-ime
 brew cask install dropbox
 brew cask install skype
 brew cask install kindle
+brew cask install flux
 
 brew cleanup
